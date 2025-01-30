@@ -58,9 +58,9 @@ To run the scraping script:
 After you have successfully scraped the data, you can run the Streamlit dashboard to visualize the stats.
 
 To run the dashboard:
-Ensure the required dependencies are installed: If you haven't installed the dependencies yet, run:
 
-Run the Streamlit dashboard: To start the Streamlit app, use the following command:
+1. Ensure the required dependencies are installed.
+2. Run the Streamlit dashboard: To start the Streamlit app, use the following command:
 
   ```bash
   streamlit run qb_dashboard.py
